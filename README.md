@@ -8,8 +8,8 @@ Installation
 Clone the Repository:
 
 bash
-git clone https://github.com/yourusername/local-ecommerce-platform.git
-cd local-ecommerce-platform
+git clone https://github.com/Kaysanshaikh/FutureIntern_FSD_03.git
+cd FutureIntern_FSD_03
 
 Install Dependencies:
 bash
